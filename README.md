@@ -37,13 +37,13 @@ With a background rooted in learning how the intersection of technology and solv
 ### 📊 GitHub Insights
 
 <!-- This table puts your stats side-by-side so they don't take up too much vertical space -->
-<table>
+<table border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=junlantracyli&show_icons=true&theme=dark&hide_border=true" alt="Tracy's GitHub Stats" width="100%">
+    <td width="50%" align="center" valign="top">
+      <img alt="jtl's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=junlantracyli&show_icons=true&theme=dark&hide_border=true" width="100%"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junlantracyli&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%">
+    <td width="50%" align="center" valign="top">
+      <img alt="jtl's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=junlantracyli&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&hide_border=true" width="100%"/>
     </td>
   </tr>
 </table>
