@@ -48,9 +48,9 @@
   <summary><b>Click to see what I'm up to outside of tech! ✨</b></summary>
   <br>
   <ul>
-    <li>☕ On a continuous quest to find the absolute best iced latte in Seattle.</li>
-    <li>📸 Dabbling in film photography and capturing everyday layout inspirations.</li>
-    <li>📚 Currently reading/learning about cognitive psychology in product design.</li>
+    <li>🥁 <b>Drumming:</b> Secretly a drummer in a rock band.</li>
+    <li>🌆 <b>Seattle Sunsets:</b> On a continuous quest to find the best sunset viewpoints around the city.</li>
+    <li>🌐 <b>Polyglot Aspirations:</b> Working toward an ultimate dream of collecting as many spoken world languages as I have programming languages in my tech stack.</li>
   </ul>
 </details>
 
