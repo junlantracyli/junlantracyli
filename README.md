@@ -10,8 +10,11 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<!-- Using uniform neon purple and cyan colors for the badges instead of original brand colors -->
-<img src="https://img.shields.io/badge/JavaScript-00f0ff?style=flat-square&logo=javascript&logoColor=black" alt="JS"> <img src="https://img.shields.io/badge/Python-8a2be2?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/HTML5_/_CSS3-ff007f?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"> <img src="https://img.shields.io/badge/Figma_/_UX-00f0ff?style=flat-square&logo=figma&logoColor=black" alt="Figma">
+
+<img src="https://img.shields.io/badge/JavaScript-25273c?style=flat-square&logo=javascript&logoColor=00f0ff&labelColor=1a1b26" alt="JS"> 
+<img src="https://img.shields.io/badge/Python-25273c?style=flat-square&logo=python&logoColor=8a2be2&labelColor=1a1b26" alt="Python"> 
+<img src="https://img.shields.io/badge/HTML5_/_CSS3-25273c?style=flat-square&logo=html5&logoColor=ff007f&labelColor=1a1b26" alt="HTML/CSS"> 
+<img src="https://img.shields.io/badge/Figma_/_UX-25273c?style=flat-square&logo=figma&logoColor=00f0ff&labelColor=1a1b26" alt="Figma">
 
 ---
 
