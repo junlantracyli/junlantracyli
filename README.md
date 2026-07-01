@@ -22,8 +22,8 @@
 > ───●─────────────────── (03:15)
 
 <div align="center">
-  <!-- Your spinning vinyl player GIF goes here -->
-  <img src="YOUR_HOSTED_LOFI_ASSET.gif" alt="Lofi City Cats Vinyl Record" width="100%">
+  <!-- Cleaned up: Just one tidy image tag pulling your uploaded asset! -->
+  <img src="https://github.com/user-attachments/assets/3008a20a-b5e1-4581-a88a-95f146e9e0fb" alt="Lofi City Cats Vinyl Record" width="100%">
 </div>
 
 ---
