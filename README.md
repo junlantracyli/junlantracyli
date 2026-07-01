@@ -17,8 +17,8 @@
 
 ### 📻 Lofi City Radio - *Cozy Beats to Code To*
 
-> 🟪 **TRACK:** 'LOFI CITY CATS' 🎶
-> 🌆 **ARTIST:** THE CREATIVE TECHNOLOGIST
+> 🟪 **TRACK:** 'LOFI CITY CATS' 🎶 <br>
+> 🌆 **ARTIST:** THE CREATIVE TECHNOLOGIST <br>
 > ───●─────────────────── (03:15)
 
 <div align="center">
@@ -27,8 +27,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Insights
 
 <!-- Switched theme=dark to theme=synthwave for a gorgeous purple/neon glow -->
 <table border="0">
