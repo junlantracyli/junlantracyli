@@ -1,4 +1,3 @@
-
 ##  Hi there! I'm Tracy 👋
 
 ### 🚀 TL;DR
@@ -18,20 +17,23 @@
 
 ---
 
-### 📻 Lofi City Radio - *Cozy Beats to Code To*
+### 📻 Lofi City Radio 
 
-> 🟪 **TRACK:** 'LOFI CITY CATS' 🎶 <br>
-> 🌆 **ARTIST:** THE CREATIVE TECHNOLOGIST <br>
-> ───●─────────────────── (03:15)
+<details open>
+  <summary><b>🎵 NOW PLAYING: Track 1 — 'LOFI CITY CATS' 🎶</b></summary>
+  <br>
+  
+  > **[▶ PLAYING]** ───●─────────────────────────── (03:15)  
+  > 🌆 **ARTIST:** THE CREATIVE TECHNOLOGIST  
 
-<div align="center">
-  <!-- Cleaned up: Just one tidy image tag pulling your uploaded asset! -->
-  <img src="https://github.com/user-attachments/assets/3008a20a-b5e1-4581-a88a-95f146e9e0fb" alt="Lofi City Cats Vinyl Record" width="100%">
-</div>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/3008a20a-b5e1-4581-a88a-95f146e9e0fb" alt="Lofi City Cats Vinyl Record" width="220">
+  </p>
+
+</details>
 
 ---
 
-<!-- Switched theme=dark to theme=synthwave for a gorgeous purple/neon glow -->
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
